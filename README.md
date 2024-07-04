@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Javascript, PHP**
 
-- 📫 How to reach me **rudrahirdekar4@gmail.com**
+- 📫 How to reach me **https://bio.link/rudrahirdekar_24**
 
 - ⚡ Fun fact **I think I am Slightly Shy guy Who loves to Work Passionatley and With Dedication.**
 
@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra2405&show_icons=true&locale=en&layout=compact" alt="rudra2405" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra2405&show_icons=true&locale=en" alt="rudra2405" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra2405&" alt="rudra2405" /></p>
