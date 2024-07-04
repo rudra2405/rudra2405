@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra2405&label=Profile%20views&color=0e75b6&style=flat" alt="rudra2405" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudra2405" alt="rudra2405" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rudrahirdekar_2" target="blank"><img src="https://img.shields.io/twitter/follow/rudrahirdekar_2?logo=twitter&style=for-the-badge" alt="rudrahirdekar_2" /></a> </p>
-
 - 🌱 I’m currently learning **React Js, Node JS**
 
 - 💬 Ask me about **React, Javascript, PHP**
@@ -29,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra2405&show_icons=true&locale=en&layout=compact" alt="rudra2405" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra2405&show_icons=true&locale=en" alt="rudra2405" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra2405&" alt="rudra2405" /></p>
