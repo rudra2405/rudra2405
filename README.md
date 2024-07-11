@@ -2,12 +2,18 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra2405&label=Profile%20views&color=0e75b6&style=flat" alt="rudra2405" /> </p>
-<p align='left'><img src="https://img.shields.io/github/followers/rudra2405?logo=github&labelColor=red"></p>
+<p align='left'><img src="https://img.shields.io/github/followers/rudra2405?style=for-the-badge&logo=github"></p>
 
 
-- 🌱 I’m currently learning **React Js, Node JS**
+- 🌱 I’m currently learning
+- 
+   ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=black) ![Static Badge](https://img.shields.io/badge/NodeJS-%23006600?style=for-the-badge&logo=mongodb&logoColor=blue&labelColor=black)
 
-- 💬 Ask me about **React, Javascript, PHP**
+
+- 💬 Ask me about
+- ![Static Badge](https://img.shields.io/badge/Javascript-%23FF9E0F?style=for-the-badge&logo=Javascript&logoColor=red&labelColor=black) ![Static Badge](https://img.shields.io/badge/PHP-%23004088?style=for-the-badge&logo=PHP&logoColor=blue&labelColor=black) ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=black)
+
+
 
 - 📫 How to reach me **https://bio.link/rudrahirdekar_24**
 
