@@ -2,6 +2,8 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra2405&label=Profile%20views&color=0e75b6&style=flat" alt="rudra2405" /> </p>
+<p align='left'><img src="https://img.shields.io/github/followers/rudra2405?logo=github&labelColor=red"></p>
+
 
 - 🌱 I’m currently learning **React Js, Node JS**
 
